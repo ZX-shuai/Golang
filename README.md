@@ -5,5 +5,12 @@ Go学习进行时
 - 菜鸟教程：[在线文档](https://www.runoob.com/go/go-tutorial.html)
 - Go语言圣经：[在线博客](https://book.itsfun.top/gopl-zh/)
 - 李文周的博客：[在线博客](https://www.liwenzhou.com/posts/Go/golang-menu/)
-#### 实战
+- [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
+#### 实战学习
 [Golang Gin实战](https://www.flysnow.org/search/?q=gin&sitesearch=https%3A%2F%2Fwww.flysnow.org)
+
+#### 项目实操
+- 使用 docker 来做虚拟化[docker](https://www.docker.com/)
+- 学习消息队列，学习 channel 和分布式[消息队列](https://github.com/nsqio/nsq)
+- 分布式应用[分布式应用](https://github.com/etcd-io/etcd)
+#### 源码阅读
