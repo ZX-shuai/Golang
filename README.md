@@ -6,6 +6,7 @@ Go学习进行时
 - Go语言圣经：[在线博客](https://book.itsfun.top/gopl-zh/)
 - 李文周的博客：[在线博客](https://www.liwenzhou.com/posts/Go/golang-menu/)
 - [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
+- Go社区:[社区文档](https://learnku.com/go/docs)
 #### 实战学习
 [Golang Gin实战](https://www.flysnow.org/search/?q=gin&sitesearch=https%3A%2F%2Fwww.flysnow.org)
 
