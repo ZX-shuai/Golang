@@ -1,5 +1,6 @@
 #### Golang 学习进行时
 #### 第一阶段 打好基础
+快速入门[Go指南](https://tour.go-zh.org/basics/)用时两个小时左右
 看一个基础视频[Go语言编程快速入门（Golang）](https://www.bilibili.com/video/BV1fD4y1m7TD?spm_id_from=333.999.0.0)  
 最好的入门书籍Go语言圣经：[在线博客](https://book.itsfun.top/gopl-zh/)  
 [Go语言实战](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=file%3A%2F%2F%2FD%3A%2F%25E6%25A1%258C%25E9%259D%25A2%2FGo%25E8%25AF%25AD%25E8%25A8%2580%25E5%25AE%259E%25E6%2588%2598.pdf)结合[Go语言实战笔记](https://www.flysnow.org/archives/)  
