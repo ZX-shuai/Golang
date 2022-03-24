@@ -1,3 +1,28 @@
 可以对字符串进行切片，改变字符串后，切片不变。  
-``` nihao
+``` 
+package main
+
+import "fmt"
+
+func main() {
+	name := "tangqian"
+	na := name[4:]
+	fmt.Println(na)
+	name = "xiaotang"
+	fmt.Println(na)
+}
+```
+对数组进行切片，改变数组后，切片变化。  
+```
+package main
+
+import "fmt"
+
+func main() {
+	name := []int{1, 2, 3, 4, 5, 6}
+	na := name[4:]
+	fmt.Println(na)
+	name[5] = 10
+	fmt.Println(na)
+}
 ```
