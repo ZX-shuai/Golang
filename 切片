@@ -1,5 +1,5 @@
 可以对字符串进行切片，改变字符串后，切片不变。  
-` package main
+``` package main
 
 import "fmt"
 
@@ -10,4 +10,4 @@ func main() {
 	name = "xiaotang"
 	fmt.Println(na)
 }
-`
+```
