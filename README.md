@@ -7,7 +7,8 @@
 很不错的一个demo网站：[Go by Eaxmple](https://learnku.com/docs/gobyexample/2020)  
 看一下标准库[中文标准库](https://studygolang.com/pkgdoc) 
 #### 第二阶段 实战
-[Golang Gin实战](https://www.flysnow.org/search/?q=gin&sitesearch=https%3A%2F%2Fwww.flysnow.org)
+[Golang Gin实战](https://www.flysnow.org/search/?q=gin&sitesearch=https%3A%2F%2Fwww.flysnow.org)  
+通过项目的形式学习GO语言[Go语言编程之旅](https://golang2.eddycjy.com/posts/ch1/01-simple-flag/)  
 #### 第三阶段 进阶之路
 设计模式  
 源码阅读  
