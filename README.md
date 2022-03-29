@@ -1,14 +1,13 @@
 #### Golang 学习进行时
 #### 第一阶段 打好基础
-快速入门[Go指南](https://tour.go-zh.org/welcome/1)用时两个小时左右  
-看一个基础视频[Go语言编程快速入门（Golang）](https://www.bilibili.com/video/BV1fD4y1m7TD?spm_id_from=333.999.0.0)  
-最好的入门书籍Go语言圣经：[链接1](https://github.com/golang-china/gopl-zh)[链接2](https://books.studygolang.com/gopl-zh/)  
-[Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
-[Go语言实战](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=file%3A%2F%2F%2FD%3A%2F%25E6%25A1%258C%25E9%259D%25A2%2FGo%25E8%25AF%25AD%25E8%25A8%2580%25E5%25AE%259E%25E6%2588%2598.pdf)结合[Go语言实战笔记](https://www.flysnow.org/archives/) 
-[Go语言101](https://gfw.go101.org/article/101.html)
-很多面试题都来源于这本书，需要翻墙【[Go语言设计与实现](https://draveness.me/golang/)】  
-很不错的一个demo网站：[Go by Eaxmple](https://learnku.com/docs/gobyexample/2020)  
-看一下标准库[中文标准库](https://studygolang.com/pkgdoc) 
+快速入门【[Go指南](https://tour.go-zh.org/welcome/1)】用时两个小时左右  
+看一个基础视频【[Go语言编程快速入门（Golang）](https://www.bilibili.com/video/BV1fD4y1m7TD?spm_id_from=333.999.0.0)】  
+【[Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)】  
+最好的入门书籍Go语言圣经：【[链接1](https://github.com/golang-china/gopl-zh)】【[链接2](https://books.studygolang.com/gopl-zh/)】  
+熟悉语言：【[Go语言实战]()】结合【[Go语言实战笔记](https://www.flysnow.org/archives/)】   
+进阶：很多面试题都来源于这本书，需要翻墙【[Go语言设计与实现](https://draveness.me/golang/)】  
+很不错的一个demo网站：【[Go by Eaxmple](https://learnku.com/docs/gobyexample/2020)】  
+看一下标准库【[中文标准库](https://studygolang.com/pkgdoc)】 
 #### 第二阶段 实战
 [Golang Gin实战](https://www.flysnow.org/search/?q=gin&sitesearch=https%3A%2F%2Fwww.flysnow.org)  
 通过项目的形式学习GO语言[Go语言编程之旅](https://golang2.eddycjy.com/posts/ch1/01-simple-flag/)  
@@ -24,6 +23,7 @@ redis：[redis实战]()
 #### 其他资源
 Mastering GO 中文版(知识点详细，适合初学者快速掌握)：[在线文档](https://www.bookstack.cn/read/Mastering_Go_ZH_CN/README.md)  
 菜鸟教程：[在线文档](https://www.runoob.com/go/go-tutorial.html)  
+[Go语言101](https://gfw.go101.org/article/101.html)  
 李文周的博客：[在线博客](https://www.liwenzhou.com/posts/Go/golang-menu/)  
 [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)  
 Go社区:[社区文档](https://learnku.com/go/docs)[Go学习笔记](https://github.com/qyuhen/book)   
