@@ -19,8 +19,8 @@ mysql：[深入浅出mysql]()
 redis：[redis实战]()
 #### 第四阶段 项目实操
 [中文版项目](https://github.com/GolangFamily/golang-open-source-projects)  
-优秀项目收集[GolangFamily](https://github.com/GolangFamily)
-[awesome-go](https://www.cntofu.com/book/89/README.md#awesome-go)  
+优秀项目收集[GolangFamily](https://github.com/GolangFamily)  
+[awesome-go](https://github.com/jobbole/awesome-go-cn)  
 #### 其他资源
 Mastering GO 中文版(知识点详细，适合初学者快速掌握)：[在线文档](https://www.bookstack.cn/read/Mastering_Go_ZH_CN/README.md)  
 菜鸟教程：[在线文档](https://www.runoob.com/go/go-tutorial.html)  
