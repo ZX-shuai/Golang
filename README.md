@@ -44,6 +44,7 @@ B站视频【[Golang](https://www.bilibili.com/video/BV1CU4y1d7Vc?p=43)】
 [Go语言入门教程](http://c.biancheng.net/golang/)  
 【[Golang](https://www.chaindesk.cn/witbook/13#introduce)】  
 里面有刷算法题的地址【[LearnGolang](https://github.com/LearnGolang/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)】  
+【[Golang常用类和方法](https://vimsky.com/examples/list/golang-all-page-1.html)】  
 ####  Leetcode&剑指offer
 【[数据结构和算法（Golang实现）](https://github.com/hunterhug/goa.c)】  
 [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)  
