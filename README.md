@@ -22,7 +22,8 @@ redis：[redis实战]()
 优秀项目收集[GolangFamily](https://github.com/GolangFamily)  
 [awesome-go](https://github.com/jobbole/awesome-go-cn)  
 【[分布式事务DTM](https://github.com/dtm-labs/dtm)】  
-我觉得很好的一个项目【[Go-Chat](https://github.com/kone-net/go-chat-web)】  
+我觉得很好的一个项目【[Go-Chat](https://github.com/kone-net/go-chat-web)】   
+【[使用Go实现一个数据库，有文档有讲解](https://space.bilibili.com/26194591?spm_id_from=333.788.b_765f7570696e666f.2)】  
 #### 其他资源
 Mastering GO 中文版(知识点详细，适合初学者快速掌握)：[在线文档](https://www.bookstack.cn/read/Mastering_Go_ZH_CN/README.md)  
 菜鸟教程：[在线文档](https://www.runoob.com/go/go-tutorial.html)  
