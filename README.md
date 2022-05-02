@@ -5,7 +5,7 @@
 【[Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)】  
 最好的入门书籍Go语言圣经：【[链接1](https://github.com/golang-china/gopl-zh)】【[链接2](https://books.studygolang.com/gopl-zh/)】  
 熟悉语言：【[Go语言实战]()】结合【[Go语言实战笔记](https://www.flysnow.org/archives/)】   
-进阶：很多面试题都来源于这本书，需要翻墙【[Go语言设计与实现](https://draveness.me/golang/)】  
+进阶：很多面试题都来源于这本书【[Go语言设计与实现](https://draveness.me/golang/)】  
 很不错的一个demo网站：【[Go by Eaxmple](https://learnku.com/docs/gobyexample/2020)】  
 看一下标准库【[中文标准库](https://studygolang.com/pkgdoc)】 
 #### 第二阶段 实战
